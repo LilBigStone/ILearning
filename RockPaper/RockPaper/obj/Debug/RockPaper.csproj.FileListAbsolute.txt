@@ -1,0 +1,6 @@
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\bin\Debug\RockPaper.exe
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\bin\Debug\RockPaper.pdb
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\obj\Debug\RockPaper.csprojAssemblyReference.cache
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\obj\Debug\RockPaper.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\obj\Debug\RockPaper.exe
+C:\Users\maksi\RiderProjects\RockPaper\RockPaper\obj\Debug\RockPaper.pdb
